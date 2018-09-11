@@ -18,17 +18,4 @@ function init() {
       index = 0
     }
   })
-
-  // const key = parseInt(event.detail || event.which);
-  //
-  // if (key === code[index]) {
-  //   ++index
-  //   if (index === code.length) {
-  //     alert("All sytems passing!")
-  //
-  //     index = 0
-  //   }
-  // } else {
-  //   index = 0
-  // }
 }
