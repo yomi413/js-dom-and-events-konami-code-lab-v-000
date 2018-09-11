@@ -12,7 +12,7 @@ function init(event) {
       alert("All sytems passing!")
 
       index = 0
-    } 
+    }
   } else {
     index = 0
   }
